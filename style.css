@@ -1,0 +1,24 @@
+.profile-photo{
+    border-radius: 50%;
+}
+
+body{
+    background: rgb(68,19,213);
+background: radial-gradient(circle, rgba(68,19,213,1) 0%, rgba(98,78,214,1) 40%, rgba(166,0,101,1) 85%);
+}
+
+a{
+    color: darkblue;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+p{
+    color: white;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: serif;
+}
